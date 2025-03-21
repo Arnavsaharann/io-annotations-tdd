@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Arnav",
+    "lastName": "Saharan",
+    "address": "Street 1",
+    "city": "Delhi",
+    "state": "Delhi",
+    "zip": "110001",
+    "email": "arnav@example.com",
+    "phoneNumber": "9876543210"
+  },
+  {
+    "firstName": "Mayank",
+    "lastName": "Sharma",
+    "address": "Street 2",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zip": "400001",
+    "email": "mayank@example.com",
+    "phoneNumber": "8765432109"
+  },
+  {
+    "firstName": "Kanika",
+    "lastName": "Agarwal",
+    "address": "Street 3",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "zip": "400001",
+    "email": "mayank@example.com",
+    "phoneNumber": "8668321235"
+  },
+  {
+    "firstName": "Shreyas",
+    "lastName": "Agarwal",
+    "address": "Street 3",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "zip": "400001",
+    "email": "mayank@example.com",
+    "phoneNumber": "8668321235"
+  }
+]
